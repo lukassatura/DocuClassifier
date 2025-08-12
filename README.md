@@ -213,9 +213,9 @@ Ensure your training and testing data files are in the project directory:
 # Start Jupyter notebook
 jupyter notebook
 
-# Open and run solution.ipynb
+# Open and run docuclassifier.ipynb
 # Or run directly with Python:
-python -c "exec(open('solution.py').read())"
+python -c "exec(open('docuclassifier.py').read())"
 ```
 
 ## 📊 Usage & Configuration
