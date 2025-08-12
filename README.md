@@ -171,7 +171,7 @@ def generate_classification_prompt(text, category_descriptions, training_example
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd docclassifier
+cd DocuClassifier
 
 # Create virtual environment
 python -m venv .venv
